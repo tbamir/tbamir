@@ -8,15 +8,9 @@
 🌟 Always learning and eager to collaborate on innovative projects!
 
 🛠️ **Tech Stack**
-- Intermediate: `Docker` `Java` `C++` `Swift`
 - Advanced: `Python`
+- Intermediate: `Docker` `Java` `C++` `Swift`
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tbamir&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tbamir&theme=dark" alt="GitHub Streak" />
-</p>
 
 🤝 **Connect With Me**
-- [GitHub](https://github.com/tbamir)
 - [LinkedIn](https://linkedin.com/in/amirbeheshti)
