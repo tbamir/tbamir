@@ -1,39 +1,34 @@
 # Amir Beheshti
 
-### Software Engineer | Founder | Computer Science Student at the University of North Texas
+Cloud and Systems Engineer | Software Engineer | CS Graduate
 
-I’m a software engineer focused on building scalable systems, privacy-first infrastructure, and intelligent applications. I specialize in system-level development, cloud architecture, and machine learning — with a commitment to performance, security, and impact.
-
-Currently pursuing a B.S. in Computer Science at the University of North Texas (GPA: 3.85). I enjoy turning complex problems into clean, resilient systems with real-world applications. My work spans backend architecture, distributed protocols, and applied cryptography.
+I build scalable, high-availability systems and cloud-native solutions. My work focuses on cloud architecture, infrastructure automation, and data pipelines, with a strong foundation in Python, C#, and modern DevOps practices. I like turning complex systems into reliable, maintainable, and secure workflows.
 
 ### Technical Skills
-**Languages:**  
-Python, Rust, C++, Swift, Go, C#, TypeScript, SQL
 
-**Frameworks & Libraries:**  
-Docker, Node.js, React, OpenCV, TensorFlow, SwiftUI, Fyne, Scikit-learn
+**Languages:** Python, Rust, C++, Swift, Go, C#, TypeScript, SQL  
+**Cloud & Infrastructure:** AWS, GCP, Azure, BigQuery, Cloud Functions, Compute Engine, Docker, Kubernetes, CI/CD  
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase Realtime Database  
+**Web & APIs:** GraphQL, REST, Node.js, React  
+**Machine Learning & Analytics:** Scikit-learn, TensorFlow, Pandas, NumPy, SVM, SMOTE  
+**Other Tools:** Terraform, Ansible, Git, Jira, Agile
 
-**Cloud & Infrastructure:**  
-Google Cloud Platform (GCP), AWS, BigQuery, Firebase, Compute Engine, Cloud Functions
+### Experience
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Firebase Realtime Database
+**Software Engineer – SequestBio (Dallas, TX) | Jan 2025 – Present**  
+- Designed cloud-based data solutions in Python and C# to standardize and process large datasets for analytics and ML.  
+- Built GCP pipelines using Cloud Storage, Compute Engine, Cloud Functions, and BigQuery.  
+- Managed PostgreSQL data models to enable secure cross-team access.  
+- Implemented GraphQL endpoints for efficient, multi-team data workflows.
 
-**Core Interests:**  
-Machine Learning, Blockchain & Web3, Applied Cryptography, Privacy-Centered Systems, Distributed Architecture
+**Software Developer Intern – Provision AI (Remote) | Jul 2023 – Jan 2024**  
+- Built a Python UI to test computer vision and pose estimation with real-time sensor data.  
+- Developed a monitoring platform with drift alerts to improve system performance.  
+- Integrated frontend with RabbitMQ microservices backend for scalable communication.
 
-### Current Work
-**Founder & Lead Developer — TrustDrop (in development)**  
-A cross-platform, peer-to-peer file transfer application built in Rust and Tauri with full end-to-end encryption and zero cloud dependency. TrustDrop is designed to deliver secure, private file transfers between devices — targeting industries where data integrity and compliance matter.
+### About Me
 
-- Engineered with Rust for safety, speed, and reliability  
-- Uses Tauri for lightweight, cross-platform desktop delivery  
-- Local-first architecture with cryptographic verification and no third-party storage  
-- Built for high-security environments including healthcare and legal industries  
-- Preparing for commercialization with planned enterprise features
-
-### About
-I approach engineering with a product mindset, balancing low-level systems knowledge with user-centric design. I'm building for privacy, performance, and scale, and always looking to push the boundaries of what secure systems can do in the real world.
+I enjoy solving real-world problems with cloud-native, secure, and scalable systems. My work sits at the intersection of software engineering, DevOps, and data engineering, preparing me for roles where I can design, deploy, and optimize infrastructure while supporting teams across the organization.
 
 ### Connect
 **LinkedIn:** [linkedin.com/in/amirbeheshti](https://linkedin.com/in/amirbeheshti)
