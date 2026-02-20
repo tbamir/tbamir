@@ -15,13 +15,13 @@ I build scalable, high-availability systems and cloud-native solutions. My work 
 
 ### Experience
 
-**Software Engineer – SequestBio (Dallas, TX) | Jan 2025 – Present**  
+**Software Engineer - SequestBio (Dallas, TX) | Jan 2025 - Present**  
 - Designed cloud-based data solutions in Python and C# to standardize and process large datasets for analytics and ML.  
 - Built GCP pipelines using Cloud Storage, Compute Engine, Cloud Functions, and BigQuery.  
 - Managed PostgreSQL data models to enable secure cross-team access.  
 - Implemented GraphQL endpoints for efficient, multi-team data workflows.
 
-**Software Developer Intern – Provision AI (Remote) | Jul 2023 – Jan 2024**  
+**Software Developer Intern - Provision AI (Remote) | Jul 2023 - Jan 2024**  
 - Built a Python UI to test computer vision and pose estimation with real-time sensor data.  
 - Developed a monitoring platform with drift alerts to improve system performance.  
 - Integrated frontend with RabbitMQ microservices backend for scalable communication.
